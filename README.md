@@ -1,6 +1,6 @@
 # Robotron 2000
 
-> Status do projeto: Em desenvolvimento.
+> Status do projeto: Concluido.
 
 
 Projeto do curso "JavaScript: manipulando o DOM" da plataforma Alura. O curso foi especialmente planejado para uma excelente experiência de estudo em JavaScript para Front-End.
